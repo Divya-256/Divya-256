@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 <br>
-* 📈 My GitHub Stats *
+** 📈 My GitHub Stats **
 <br>
 <p align="center"><img alt="Divyasree M's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Divya-256&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
 
