@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-<h1> Hey, I'm Divyasree M! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1> Hey, I'm Divyasree M! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="50px"> </h1>
 
 ### Frontend Web Dev
 
