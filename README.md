@@ -20,6 +20,7 @@
 - 🔭 *Actively looking for Remote Internships*
 - 💻 I’m currently learning *Python advanced concepts*
 - 📫 How to reach me: *1002divyasree@gmail.com* 
+ [![@divya256's Holopin board](https://holopin.me/divya256)](https://holopin.io/@divya256)                                                                                                                            
 <br>
 
 **Languages and Tools:** 
