@@ -5,7 +5,7 @@
 <div align="center">
 <h1> Hey, I'm Divyasree M! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="50px"> </h1>
 
-### Frontend Web Dev
+### Full Stack Web Developer
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/divya-256/">
