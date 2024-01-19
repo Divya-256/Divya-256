@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently *Open to Work*
+
 - 🔭 *Actively looking for Remote Internships*
 - 💻 I’m currently learning *Python advanced concepts*
 - 📫 How to reach me: *1002divyasree@gmail.com* 
