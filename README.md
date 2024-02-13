@@ -18,7 +18,7 @@
 
 
 - 🔭 *Actively looking for Remote Internships*
-- 💻 I’m currently learning *Python advanced concepts*
+- 💻 Currently exploring Blockchain
 - 📫 How to reach me: *1002divyasree@gmail.com* 
                                                                                                                           
 <br>
