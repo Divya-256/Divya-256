@@ -17,9 +17,8 @@
 <br/>
 
 
-- 🔭 *Actively looking for Remote Internships*
-- 💻 Currently exploring Blockchain
-- 📫 How to reach me: *1002divyasree@gmail.com* 
+-Associate Software Engineer @Tarento 
+- 📫 How to reach me: *256divyasree@gmail.com* 
                                                                                                                           
 <br>
 
